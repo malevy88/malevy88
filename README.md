@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @malevy88
-- 👀 I’m interested in pursuing a career in web development.
-- 🌱 I’m currently learning through the Odin Project! After some time away, I am very excited to try and switch careers.
+- 👀 I’m interested in pursuing a career in the cloud computing space.
+- 🌱 I’m currently learning through Learn to Cloud! I am excited about pivoting my career
 - 💞️ I’m looking to collaborate on anything fun that I can learn from
-- 📫 How to reach me ...
 
 <!---
 malevy88/malevy88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
